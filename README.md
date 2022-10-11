@@ -58,3 +58,5 @@ A software developer based in Ireland with a passion for the web.
 ### My GitHub stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=jordharr&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+[![@jordharr's Holopin board](https://holopin.io/api/user/board?user=jordharr)](https://holopin.io/@jordharr)
