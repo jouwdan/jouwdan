@@ -1,6 +1,10 @@
 ## Hey 👋 i'm Jordan
 
-A software developer based in Ireland with a passion for the web.
+A web tech & open source enthusiast based in Co Laois, Ireland. I am currently a Software Developer I, CXE at Charles River Labs and am in my final year of study on the HDip in Computer Science programme at SETU Waterford.
+
+In 2022, I had the opportunity to speak at Google DevFest Glasgow and I also attended NodeConf EU.
+
+In addition to my studies and professional pursuits, I am also a hobbyist photographer. My work has been viewed over 15.5 million times on Unsplash, and has been used by major companies such as Yahoo, MIT, TechCrunch, and Lifewire
 
 ### Contact Me
 
