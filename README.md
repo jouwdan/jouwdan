@@ -4,7 +4,7 @@ A web tech & open source enthusiast based in Co Laois, Ireland. I am currently a
 
 In 2022, I gave a talk about the Tutors Open Source Project at Google DevFest Glasgow and was an attendee at NodeConf EU.
 
-In addition to my studies and professional pursuits, I am also a hobbyist photographer. My work has been viewed over 15.5 million times on Unsplash, and has been used by major companies such as Yahoo, MIT, TechCrunch, and Lifewire.
+In addition to my studies and professional pursuits, I am also a hobbyist photographer. My photos have been viewed over 15.5 million times on Unsplash, and has been used by major companies such as Yahoo, MIT, TechCrunch, and Lifewire.
 
 ### Contact Me
 
