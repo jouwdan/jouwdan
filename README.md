@@ -9,7 +9,7 @@ In addition to my studies and professional pursuits, I am also a hobbyist photog
 ### Contact Me
 
 <p>
-<a href="https://github.com/jordharr" target="_blank">
+<a href="https://github.com/jouwdan" target="_blank">
 <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
 </a>
 </p>
@@ -55,6 +55,6 @@ In addition to my studies and professional pursuits, I am also a hobbyist photog
 
 ### My GitHub stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=jordharr&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jouwdan&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 [![@jordharr's Holopin board](https://holopin.io/api/user/board?user=jordharr)](https://holopin.io/@jordharr)
