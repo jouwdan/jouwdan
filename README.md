@@ -30,6 +30,13 @@ In addition to my studies and professional pursuits, I am also a hobbyist photog
 <img alt="vscode" src="https://img.shields.io/badge/-VSCode-007acc?style=flat-square&logo=visualstudiocode&logoColor=white" />
 </p>
 
+### Dev setup
+
+Laptop: Macbook Pro 16", M1 Pro, 16GB/1TB
+Monitors: Lenovo T32h-20 32" QHD + BenQ RL2455HM 24" 1080p
+Keyboard: Drevo Gramr V2 TE, TTC Red Switches, Keychron caps
+Mouse: Logitech G903
+
 ### Repos
 
 <table>
@@ -49,6 +56,13 @@ In addition to my studies and professional pursuits, I am also a hobbyist photog
       <td><img alt="Forks" src="https://img.shields.io/github/forks/tutors-sdk/tutors?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/tutors-sdk/tutors?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/tutors-sdk/tutors?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/tutors-sdk/tutors"><b>Roots</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/alder-ie/roots?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/alder-ie/roots?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/alder-ie/roots?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/alder-ie/roots?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
