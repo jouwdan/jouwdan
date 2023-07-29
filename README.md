@@ -33,8 +33,11 @@ In addition to my studies and professional pursuits, I am also a hobbyist photog
 ### Dev setup
 
 Laptop: Macbook Pro 16", M1 Pro, 16GB/1TB
+
 Monitors: Lenovo T32h-20 32" QHD + BenQ RL2455HM 24" 1080p
+
 Keyboard: Drevo Gramr V2 TE, TTC Red Switches, Keychron caps
+
 Mouse: Logitech G903
 
 ### Repos
