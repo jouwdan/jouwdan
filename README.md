@@ -74,4 +74,4 @@ Mouse: Logitech G903
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=jouwdan&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-[![@jordharr's Holopin board](https://holopin.io/api/user/board?user=jordharr)](https://holopin.io/@jordharr)
+[![@jouwdan's Holopin board](https://holopin.io/api/user/board?user=jouwdan)](https://holopin.io/@jordharr)
