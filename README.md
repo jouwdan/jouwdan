@@ -2,7 +2,12 @@
 
 A web tech & open source enthusiast based in Co Laois, Ireland. I am currently a Software Developer I, CXE at Charles River Labs, a maintainer of the [Tutors Open Source Project](https://github.com/tutors-sdk/tutors) and am in my final year of study on the HDip in Computer Science programme at SETU Waterford.
 
-In 2022, I gave a [talk about the Tutors Open Source Project at GDG Glasgow Google DevFest](https://www.youtube.com/watch?v=9j25w4Zrucg) and was an attendee at NodeConf EU.
+- Co-hosted a workshop at NodeConf EU (2023)
+- Founded Portlaoise Tech Meetup (2023)
+- Spoke at GDG Glasgow Google DevFest (2022)
+  - Talk on the Tutors Open Source Project
+  - Talk available [here](https://www.youtube.com/watch?v=9j25w4Zrucg)
+- Attended NodeConf EU (2022)
 
 In addition to my studies and professional pursuits, I am also a hobbyist photographer. My photos have been viewed over 15.5 million times on Unsplash, and has been used by major companies such as Yahoo, MIT, TechCrunch, and Lifewire.
 
