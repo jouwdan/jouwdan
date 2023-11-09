@@ -1,6 +1,6 @@
 ## Hey 👋 i'm Jordan
 
-A web tech & open source enthusiast based in Co Laois, Ireland. I am currently a Software Developer I, CXE at Charles River Labs & a maintainer of the [Tutors Open Source Project](https://github.com/tutors-sdk/tutors).
+A web tech & open source enthusiast based in Co Laois, Ireland. I am currently a Software Developer I at Charles River Labs & a maintainer of the [Tutors Open Source Project](https://github.com/tutors-sdk/tutors).
 
 - Co-hosted a workshop at NodeConf EU (Nov 2023)
 - Founded Portlaoise Tech Meetup (Oct 2023)
