@@ -1,9 +1,10 @@
 ## Hey 👋 i'm Jordan
 
-A web tech & open source enthusiast based in Co Laois, Ireland. I am currently a Software Developer I, CXE at Charles River Labs, a maintainer of the [Tutors Open Source Project](https://github.com/tutors-sdk/tutors) and am in my final year of study on the HDip in Computer Science programme at SETU Waterford.
+A web tech & open source enthusiast based in Co Laois, Ireland. I am currently a Software Developer I, CXE at Charles River Labs & a maintainer of the [Tutors Open Source Project](https://github.com/tutors-sdk/tutors).
 
 - Co-hosted a workshop at NodeConf EU (2023)
 - Founded Portlaoise Tech Meetup (2023)
+- Graduated with a HDip in Computer Science, First Class Honours from SETU Waterford.
 - Spoke at GDG Glasgow Google DevFest (2022)
   - Talk on the Tutors Open Source Project
   - Talk available [here](https://www.youtube.com/watch?v=9j25w4Zrucg)
