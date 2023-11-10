@@ -3,6 +3,8 @@
 A web tech & open source enthusiast based in Co Laois, Ireland. I am currently a Software Developer I at Charles River Labs & a maintainer of the [Tutors Open Source Project](https://github.com/tutors-sdk/tutors).
 
 - Co-hosted a workshop at NodeConf EU (Nov 2023)
+  - Workshop titled: Unlocking the power of AI: Private conversations with your docs using Langchain JS
+  - Workshop code available [here](https://github.com/jouwdan/langchainjs-workshop)
 - Founded Portlaoise Tech Meetup (Oct 2023)
 - Graduated with a HDip in Computer Science, First Class Honours from SETU Waterford (Oct 2023)
 - Spoke at GDG Glasgow Google DevFest (Nov 2022)
