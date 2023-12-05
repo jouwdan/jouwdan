@@ -70,6 +70,13 @@ Mouse: Logitech G903
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/tutors-sdk/tutors?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
+      <td><a href="https://github.com/jouwdan/langchainjs-workshop"><b>LangchainJS Workshop</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/jouwdan/langchainjs-workshop?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/jouwdan/langchainjs-workshop?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/jouwdan/langchainjs-workshop?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/jouwdan/langchainjs-workshop?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/tutors-sdk/tutors"><b>Roots</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/alder-ie/roots?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/alder-ie/roots?style=flat-square&labelColor=343b41"/></td>
