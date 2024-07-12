@@ -43,11 +43,11 @@ In addition to my professional pursuits, I am also a hobbyist photographer. My p
 
 Laptop: Macbook Pro 16", M1 Pro, 16GB/1TB
 
-Monitors: Lenovo T32h-20 32" QHD + BenQ RL2455HM 24" 1080p
+Monitor: Lenovo T32h-20 32" QHD
 
-Keyboard: Drevo Gramr V2 TE, TTC Red Switches, Keychron caps
+Keyboard: Keychron K3 Pro
 
-Mouse: Logitech G903
+Mouse: Logitech MX Master 2s
 
 ### Repos
 
