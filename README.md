@@ -1,19 +1,8 @@
 ## Hey 👋 i'm Jordan
 
-A web tech & open source enthusiast based in Co Laois, Ireland. I am currently a Software Developer I at Charles River Labs, Founder & Organiser of [GDG Portlaoise](https://gdg.community.dev/gdg-portlaoise/) (formerly Portlaoise Tech Meetup) & a maintainer of the [Tutors Open Source Project](https://github.com/tutors-sdk/tutors).
+A web tech & open source enthusiast based in Co Laois, Ireland. I am currently a Software Developer at Charles River Labs and Founder & Organiser of [GDG Portlaoise](https://gdg.community.dev/gdg-portlaoise/) (formerly Portlaoise Tech Meetup).
 
-- Portlaoise Tech Meetup -> GDG Portlaoise (Nov 2023)
-- Co-hosted a workshop at NodeConf EU (Nov 2023)
-  - Workshop titled: Unlocking the power of AI: Private conversations with your docs using Langchain JS
-  - Workshop code available [here](https://github.com/jouwdan/langchainjs-workshop)
-- Founded Portlaoise Tech Meetup (Oct 2023)
-- Graduated with a HDip in Computer Science, First Class Honours from SETU Waterford (Oct 2023)
-- Spoke at GDG Glasgow Google DevFest (Nov 2022)
-  - Talk title: Empowering Remote Education with the Tutors Open Source Project
-  - Talk available [here](https://www.youtube.com/watch?v=9j25w4Zrucg)
-- Attended NodeConf EU (Oct 2022)
-
-In addition to my professional pursuits, I am also a hobbyist photographer. My photos have been viewed over 18 million times on Unsplash, and has been used by major news outlets such as Yahoo, Buzzfeed, MIT, TechCrunch, Towards Data Science and Lifewire.
+In addition to my professional pursuits, I am also a hobbyist photographer. My photos have been viewed over 20,000,000 times on Unsplash, and has been used by major news outlets such as Yahoo, Buzzfeed, MIT, TechCrunch, Towards Data Science and Lifewire.
 
 ### Contact Me
 
@@ -29,6 +18,7 @@ In addition to my professional pursuits, I am also a hobbyist photographer. My p
 <img alt="JavaScript" src="https://img.shields.io/badge/-Javascript-fcdc00?style=flat-square&logo=javascript&logoColor=white" />
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
 <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+<img alt="Nextjs" src="https://img.shields.io/badge/-NextJS-000000?style=flat-square&logo=Next.js&logoColor=white](https://img.shields.io/badge/-NextJS-45b8d8?style=flat-square&logo=Next.js&logoColor=white" />
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 <img alt="Svelte" src="https://img.shields.io/badge/-Svelte-ff3e00?style=flat-square&logo=svelte&logoColor=white" />
 <img alt="TailwindCSS" src="https://img.shields.io/badge/-TailwindCSS-0ea5e9?style=flat-square&logo=tailwindcss&logoColor=white" />
@@ -38,16 +28,6 @@ In addition to my professional pursuits, I am also a hobbyist photographer. My p
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img alt="vscode" src="https://img.shields.io/badge/-VSCode-007acc?style=flat-square&logo=visualstudiocode&logoColor=white" />
 </p>
-
-### Dev setup
-
-Laptop: Macbook Pro 16", M1 Pro, 16GB/1TB
-
-Monitor: Lenovo T32h-20 32" QHD
-
-Keyboard: Keychron K3 Pro
-
-Mouse: Logitech MX Master 2s
 
 ### Repos
 
