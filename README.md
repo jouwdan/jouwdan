@@ -20,7 +20,7 @@ In addition to my professional pursuits, I am also a hobbyist photographer. My p
 <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 <img alt="Nextjs" src="https://img.shields.io/badge/-NextJS-000000?style=flat-square&logo=Next.js&logoColor=white](https://img.shields.io/badge/-NextJS-45b8d8?style=flat-square&logo=Next.js&logoColor=white" />
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-<img alt="Chakra UI" src="https://img.shields.io/badge/Chakra%20UI?style=flat-square&logo=chakraui&logoColor=white" />
+<img alt="Chakra UI" src="https://img.shields.io/badge/-ChakraUI-?style=flat-square&logo=chakraui&logoColor=white" />
 <img alt="Svelte" src="https://img.shields.io/badge/-Svelte-ff3e00?style=flat-square&logo=svelte&logoColor=white" />
 <img alt="TailwindCSS" src="https://img.shields.io/badge/-TailwindCSS-0ea5e9?style=flat-square&logo=tailwindcss&logoColor=white" />
 <img alt="Fastify" src="https://img.shields.io/badge/-Fastify-363636?style=flat-square&logo=fastify&logoColor=white" />
