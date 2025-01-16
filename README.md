@@ -1,6 +1,6 @@
 ## Hey 👋 i'm Jordan
 
-A web tech & open source enthusiast based in Co Laois, Ireland. I am currently a Software Developer at Charles River Labs and Founder & Organiser of [GDG Portlaoise](https://gdg.community.dev/gdg-portlaoise/) (formerly Portlaoise Tech Meetup).
+A web tech & open source enthusiast based in Co Laois, Ireland. I am currently a Software Developer at Charles River Labs and Founder & Community Lead of [GDG Portlaoise](https://gdg.community.dev/gdg-portlaoise/) (formerly Portlaoise Tech Meetup).
 
 In addition to my professional pursuits, I am also a hobbyist photographer. My photos have been viewed over 20,000,000 times on Unsplash, and has been used by major news outlets such as Yahoo, Buzzfeed, MIT, TechCrunch, Towards Data Science and Lifewire.
 
