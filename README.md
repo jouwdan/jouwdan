@@ -4,4 +4,4 @@ A Frontend-led full-stack engineer & all around tech enthusiast based in Co Laoi
 
 ### Contact Me
 
-You can reach me on [LinkedIn[(https://linkedin.com/in/jouwdan) or by email at [jordan@harrison.to](mailto:jordan@harrison.to).
+You can reach me on [LinkedIn](https://linkedin.com/in/jouwdan) or by email at [jordan@harrison.to](mailto:jordan@harrison.to).
